@@ -4,5 +4,7 @@
 
 Access to calculator at the following link:
 
-[https://martinrondon.shinyapps.io/Recalibrated_4C_Mortality_Model/](https://martinrondon.shinyapps.io/Recalibrated_4C_Mortality_Score_for_COVID_19_in_Colombia/)
+https://martinrondon.shinyapps.io/Recalibrated_4C_Mortality_Score_for_COVID_19_in_Colombia/
+
+
 
