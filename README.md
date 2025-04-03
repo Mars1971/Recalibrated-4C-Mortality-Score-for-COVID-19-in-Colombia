@@ -1,4 +1,4 @@
-# Risk Calculator for Recalibrated 4C Mortality Model
+# Recalibrated 4C Mortality Score for COVID-19 in Colombia
 
 
 
