@@ -1,7 +1,7 @@
 # Recalibrated 4C Mortality Score for COVID-19 in Colombia
 </br>
 
-### Introduction and Recommendation for the 4C Mortality Score Calculator in Predicting COVID-19 Mortality
+### Important information to use this model:
 </br>
 
 Accurate risk stratification is vital for making hospitalization decisions in COVID-19 patients. This study assessed the 4C Mortality Score's ability to predict 30-day mortality in COVID-19 patients presenting to emergency departments (EDs). We conducted an external validation using a cohort of patients from seven high-complexity hospitals in Colombia, who presented between March 2020 and September 2021.
