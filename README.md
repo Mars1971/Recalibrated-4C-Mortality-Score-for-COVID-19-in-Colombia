@@ -22,11 +22,8 @@ adjusting all logistic model coefficients. An online calculator based on this re
 
 The 4C Mortality Score outperformed other models in predicting mortality. Decision curve analysis indicated its value in guiding hospitalization decisions at a ≥4% mortality risk threshold. When used alongside clinical judgment, it can improve risk assessment, guide hospitalization decisions, and help optimize resource allocation. Recalibration and decision curve analysis enhance its practical application.
 
-</br>
 
 ### Access to calculator at the following link:
-
-</br>
 
 https://martinrondon.shinyapps.io/Recalibrated_4C_Mortality_Score_for_COVID_19_in_Colombia/
 
